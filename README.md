@@ -1,4 +1,4 @@
-# Fetch
+# Weather App (Fetch)
 
 En aquest repositori faràs servir _fetch_ per obtenir dades de forma asíncrona des d'una API.
 
